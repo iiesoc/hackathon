@@ -25,13 +25,6 @@ Note: you must login to the GitHub submit an issue or request to merge.
 
 TEMPLATE: Copy/paste and update the following template to add your project to the list:
 
-
-
-Champion(s)
-tbd
-Project(s)
-tbd
-
 ### Your-Technology-Project-Name
 - Champion(s): 
 - Organization(s) Involved: 
