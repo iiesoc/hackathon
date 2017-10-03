@@ -23,4 +23,4 @@ Requirements for Hackathon Participants -
 - Specific coding languages are called out for some of projects (e.g. Python, Java), but this is heavily dependent on the project(s)
 - Git/GitHub is commonly used for open source projects. Familiarizing yourself with it is recommended.
 
-# Register your team and projects here (projects.md), request others to join. 
+# Register your team and projects [here](../master/project.md), request others to join. 
