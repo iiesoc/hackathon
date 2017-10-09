@@ -24,3 +24,5 @@ Requirements for Hackathon Participants -
 - Git/GitHub is commonly used for open source projects. Familiarizing yourself with it is recommended.
 
 # Register your team and projects [here](../master/projects.md), request others to join. 
+
+# Tickets for the hackathon are availaible [here](https://www.connections.iiesoc.in/tickets). 
