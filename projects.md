@@ -5,11 +5,19 @@
 
 ## SDN
 ### Analytics and Telemetry in SDN
-- Champion(s): Shankara / Vinod 
+- Champion(s): Shankara 
 - Organization(s) Involved: Huawei
-- Registered Hackers: 
+- Registered Hackers: Dhruv, Vinod, Kalyana
 - Technology Involved: 
-- Standards Impact:
+- Standards Impact: Telemetry related protocols, OPS area
+- Link: 
+
+### Intent based Service Function Chaining (SFC) 
+- Champion(s): Swarup 
+- Organization(s) Involved: Huawei
+- Registered Hackers: Dhruv, Vinod, Kalyana
+- Technology Involved: SFC, Openstack, NLP engine
+- Standards Impact: SFC 
 - Link: 
 
 ## IOT
