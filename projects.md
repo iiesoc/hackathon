@@ -33,6 +33,13 @@
 
 ## Apps
 
+## Others
+- Champion(s): Nalini
+- Organization(s) Involved: InsideTheStack
+- Registered Hackers: 
+- Technology Involved: IPv6 Performance and Diagnostic Metrics (PDM)
+- Standards Impact: IPv6, PDM
+- Link: https://tools.ietf.org/html/rfc8250
 
 
 ---
