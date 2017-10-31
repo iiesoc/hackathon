@@ -32,6 +32,15 @@
 - Link: https://github.com/whitefield-framework/whitefield
 - Demo: Yes, would like to show during the Hackathon
 
+### SmartCampus- water management system
+- Champion(s): Dr. Yogesh Simmhan, Dr. Malati Hegde, S V R Anand
+- Organization(s) Involved: IISc
+- Registered Hackers: 
+- Technology Involved: IoT, 6LoWPAN, Contiki, RPL, COAP, In-situ OAM
+- Standards Impact: 6Lo, RPL, CoAP, lp-wan, IPPM
+- Link:
+- Demo: We will show the simulation on COOJA
+
 ## Security
 
 ## Apps
